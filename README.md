@@ -24,7 +24,7 @@ The internet has become an integral part of our lives, and we rely on it for eve
 
 In conclusion, staying anonymous on the internet is crucial for protecting your privacy and security. By using a VPN, anonymous search engines, anonymous email services, strong passwords, and avoiding sharing personal information online, you can help keep your online activity private. Remember, the internet can be a dangerous place, so always be cautious and use common sense when sharing information online.
 
-Writer @waleezwashere
+<h1>Writer @waleezwashere</h1>
 
 <h1>----Türkçe----</h1>
 
@@ -54,4 +54,4 @@ Writer @waleezwashere
 
 Sonuç olarak, internette anonim kalmak, gizliliğinizi ve güvenliğinizi korumak için çok önemlidir. Bir VPN, anonim arama motorları, anonim e-posta hizmetleri, güçlü parolalar kullanarak ve kişisel bilgilerinizi çevrimiçi paylaşmaktan kaçınarak, çevrimiçi etkinliğinizin gizli kalmasına yardımcı olabilirsiniz. İnternetin tehlikeli bir yer olabileceğini unutmayın, bu nedenle çevrimiçi bilgi paylaşırken her zaman dikkatli olun ve sağduyulu olun.
 
-Yazar @waleezwashere
+<h1>Yazar @waleezwashere</h1>
