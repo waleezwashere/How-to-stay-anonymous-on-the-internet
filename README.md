@@ -26,7 +26,7 @@ In conclusion, staying anonymous on the internet is crucial for protecting your 
 
 Writer @waleezwashere
 
-----Türkçe----
+<h1>----Türkçe----</h1>
 
 <h1>İnternette nasıl anonim kalınır.</h1>
 
